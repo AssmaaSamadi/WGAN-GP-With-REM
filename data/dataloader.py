@@ -20,9 +20,9 @@ class dataloader():
        
         self.refer_columns = ['Characteristics.disease.','Characteristics.organism.part.']
         self.column = 'part'
-        self.path = "/home/commun/MicroArray/E-MTAB-3732/class.csv"
+        self.path = "/home/commun/MicroArray/E-MTAB-3732/class.csv" #the path where exist the data of tissue type and cancerphenotype
         #self.path_ids ='Microarrays_files/Microaarays'
-        self.patharr = "/home/commun/MicroArray/E-MTAB-3732/E-MTAB-3732.data2.csv"
+        self.patharr = "/home/commun/MicroArray/E-MTAB-3732/E-MTAB-3732.data2.csv" #the path where exist microarray levels data
         self.file_path = 'data/Microarrays_files'
         
     def processing_rna_data(self):
