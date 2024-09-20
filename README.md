@@ -8,10 +8,11 @@ if you are using conda: conda install --file requirements.txt
 if not: pip install -r requirements.txt
 
 # The data
-The data is available at:\\
+The data is available at:
 https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-3732
 
 To preprocess it after dowloading it
+
 at first adjust the data path in the preprocessing.py script in the data folder then run: python data_preprocessing.py 
 
 # To Train WGAN-GP on your data
