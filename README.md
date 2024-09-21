@@ -28,4 +28,4 @@ Run: MLP5times.py
 # Metrics: Reconstruction Error Metric REM
 To calculate precision and recall use the precision_recall.py script in the metrics in src folder.
 
-To calculate our Metric RE use REM.py script in the metrics in src folder.
+To calculate our Metric RE use REM.py script in the Metrics in src folder.
