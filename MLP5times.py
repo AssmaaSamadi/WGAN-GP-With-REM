@@ -28,6 +28,6 @@ def Mlp_times():
     
     np.save('results/accuracy_times.npy',accuracy)
 
-# Lunch the training
+# Launch the training
     
 Mlp_times()  
