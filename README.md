@@ -23,3 +23,7 @@ Run: OptunaWgan.py
 
 # To train the multiclass classification on the data preprocessed data (data 32403 features)
 Run: MLP5times.py
+
+# Metrics: Reconstruction Error Metric REM
+To calculate precision and recall use the precision_recall.py script in the metrics in src folder.
+To calculate our Metric RE use REM.py script in the metrics in src folder.
