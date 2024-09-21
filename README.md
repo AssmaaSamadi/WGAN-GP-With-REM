@@ -12,12 +12,13 @@ if not: pip install -r requirements.txt
 The data is available at:
 https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-3732
 
-To preprocess it after dowloading it
+To preprocess it after dowloading it you need:
 
-at first adjust the data path in the preprocessing.py script in the data folder then run: python data_preprocessing.py 
+At first to adjust the data path in the preprocessing.py script in the data folder then run: python data_preprocessing.py 
 
 # To Train WGAN-GP on your data
 Run: python Wgan_best.py
+
 ## To tune the WGAN-GP 
 Run: OptunaWgan.py
 
