@@ -1,3 +1,5 @@
+# Paper available at:
+https://theses.hal.science/tel-04996930v1/file/2025UPASG010.pdf and at https://zoechevallier1.github.io/jdse-2024/program
 # WGAN-GP data generation With Reconstruction Error Metric (REM)
 This repository contains the main classes and functions needed to understand how to replicate the experiments on your data.
 
